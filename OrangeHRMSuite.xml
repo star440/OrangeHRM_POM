@@ -1,0 +1,14 @@
+<suite name = "OrangeHRM Test Suite">
+<test name = "AdminLogin with Valid Inputs">
+<classes>
+<class name = "orangehrm.testcases.AdminLoginwithValidInputs"> </class>
+</classes>
+</test>
+
+<test name = "Login with Invlaid Inputs">
+<classes>
+<class name = "orangehrm.testcases.LoginwithInvalidInputs"></class>
+</classes>
+</test>
+</suite>
+
